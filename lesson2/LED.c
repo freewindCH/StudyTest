@@ -22,9 +22,9 @@ sbit ADDR2 = P1^2;
 sbit ADDR3 = P1^3;
 sbit ENLED = P1^4;
 
-sbit ENLED = P1^5;
+sbit ENLED1 = P1^5;
 
-sbit ENLED = P1^6;
+sbit ENLED2 = P1^6;
 
 void main()
 {
