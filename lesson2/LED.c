@@ -24,6 +24,8 @@ sbit ENLED = P1^4;
 
 sbit ENLED = P1^5;
 
+sbit ENLED = P1^6;
+
 void main()
 {
     ENLED = 0;
