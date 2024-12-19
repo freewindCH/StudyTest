@@ -22,6 +22,8 @@ sbit ADDR2 = P1^2;
 sbit ADDR3 = P1^3;
 sbit ENLED = P1^4;
 
+sbit ENLED = P1^5;
+
 void main()
 {
     ENLED = 0;
